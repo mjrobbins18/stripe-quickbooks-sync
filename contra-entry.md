@@ -16,3 +16,5 @@ Stripe, QuickBooks Online, Python, SQLite, pytest, REST APIs, OAuth 2.0, Account
 
 - Cover: `cover.png` (1600×1200, 4:3)
 - Code & README: this folder (`portfolio/stripe-quickbooks-sync/`)
+
+**Link:** https://github.com/mjrobbins18/stripe-quickbooks-sync
