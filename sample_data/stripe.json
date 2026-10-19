@@ -1,0 +1,4489 @@
+{
+  "account": {
+    "business_name": "Juniper Lane Clay Studio",
+    "country": "US",
+    "default_currency": "usd"
+  },
+  "customers": [
+    {
+      "id": "cus_0u9yMHjI8TiYOdPcW6lqHwCl",
+      "object": "customer",
+      "name": "Ferncliff Coffee Co.",
+      "email": "ap@ferncliff.example.com",
+      "created": 1785672000
+    },
+    {
+      "id": "cus_0vQXnMrUTJIPiWfBgdwXOgtK",
+      "object": "customer",
+      "name": "Theo Holloway",
+      "email": "theo.holloway@example.net",
+      "created": 1785758400
+    },
+    {
+      "id": "cus_K72FfP5W4szYGmag3dvvVbFu",
+      "object": "customer",
+      "name": "Hannah Asante",
+      "email": "hannah.asante@example.net",
+      "created": 1786363200
+    },
+    {
+      "id": "cus_sYdS2ruTV4szKb7md9khcGL8",
+      "object": "customer",
+      "name": "Caleb Delgado",
+      "email": "caleb.delgado@example.net",
+      "created": 1786363200
+    },
+    {
+      "id": "cus_0cEbYpUmq0yndzeSOQVsDfFG",
+      "object": "customer",
+      "name": "Dana Whitfield",
+      "email": "Dana.Whitfield@Example.com",
+      "created": 1786449600
+    },
+    {
+      "id": "cus_iyHtTPl3sriy8N0O6wVW2HSb",
+      "object": "customer",
+      "name": "Theo Okafor",
+      "email": "theo.okafor@example.com",
+      "created": 1786449600
+    },
+    {
+      "id": "cus_j86mPRfzGKib6cIFo6DPvtDE",
+      "object": "customer",
+      "name": "Lena Holloway",
+      "email": "lena.holloway@example.com",
+      "created": 1786449600
+    },
+    {
+      "id": "cus_6O723MAJ0WEVBafrga3Etyv9",
+      "object": "customer",
+      "name": "Mateo Kowalski",
+      "email": "mateo.kowalski@example.org",
+      "created": 1786536000
+    },
+    {
+      "id": "cus_ECMkKmMCoSHcOkO5c1NDQbOn",
+      "object": "customer",
+      "name": "June Kowalski",
+      "email": "june.kowalski@example.com",
+      "created": 1786968000
+    },
+    {
+      "id": "cus_uhq1qHquiVqJNyIuzfVEQN0V",
+      "object": "customer",
+      "name": "Hannah Vance",
+      "email": "hannah.vance@example.net",
+      "created": 1786968000
+    },
+    {
+      "id": "cus_vIsC2RJbSwAyKEhFULE4qA5D",
+      "object": "customer",
+      "name": "Rosa Brennan",
+      "email": "rosa.brennan@example.org",
+      "created": 1786968000
+    },
+    {
+      "id": "cus_OdykqRiJLZX0DaUNO6uWXFMw",
+      "object": "customer",
+      "name": "Lena Vance",
+      "email": "lena.vance@example.net",
+      "created": 1787054400
+    },
+    {
+      "id": "cus_NUtOa8D8Q154y86oZvmwNIDW",
+      "object": "customer",
+      "name": "Elena Delgado",
+      "email": "elena.delgado@example.net",
+      "created": 1787140800
+    },
+    {
+      "id": "cus_e8YWqPkAIu3OEtmC15VvZKnB",
+      "object": "customer",
+      "name": "June Rhee",
+      "email": "june.rhee@example.com",
+      "created": 1787140800
+    },
+    {
+      "id": "cus_Mj36YZRXNfxTiT9bn0KJ7x7G",
+      "object": "customer",
+      "name": "Owen Mercer",
+      "email": "owen.mercer@example.com",
+      "created": 1787313600
+    },
+    {
+      "id": "cus_EOweIXV77G1N58boA1hn1WSi",
+      "object": "customer",
+      "name": "Sam Patel",
+      "email": "sam.patel@example.net",
+      "created": 1787400000
+    },
+    {
+      "id": "cus_qdz3WzafbhQJ6vWLOM5tnC82",
+      "object": "customer",
+      "name": "Owen Kowalski",
+      "email": "owen.kowalski@example.com",
+      "created": 1787400000
+    },
+    {
+      "id": "cus_j27X5wmQCVEAPcrCYBS7q5lA",
+      "object": "customer",
+      "name": "Iris Holloway",
+      "email": "iris.holloway@example.com",
+      "created": 1787572800
+    },
+    {
+      "id": "cus_qEfUzBaaJ5fXpMU7PNjtKV6E",
+      "object": "customer",
+      "name": "Quinn Brennan",
+      "email": "quinn.brennan@example.org",
+      "created": 1787572800
+    },
+    {
+      "id": "cus_0yAzesvqEWzCuDhXXY0o72Oz",
+      "object": "customer",
+      "name": "Hannah Castillo",
+      "email": "hannah.castillo@example.org",
+      "created": 1787745600
+    },
+    {
+      "id": "cus_Y7GPSAi20hRPS78py9HORXym",
+      "object": "customer",
+      "name": "Avery Asante",
+      "email": "avery.asante@example.com",
+      "created": 1787832000
+    },
+    {
+      "id": "cus_bhPRV0dsGLpgugZeqshDEIpw",
+      "object": "customer",
+      "name": "Malik Lindqvist",
+      "email": "malik.lindqvist@example.com",
+      "created": 1787832000
+    },
+    {
+      "id": "cus_hzxWPWlbSHI3WobHz7iMflc1",
+      "object": "customer",
+      "name": "Avery Vance",
+      "email": "avery.vance@example.org",
+      "created": 1787832000
+    }
+  ],
+  "charges": [
+    {
+      "id": "ch_nwHCUjuScafKRYpUklYAAZkn",
+      "object": "charge",
+      "amount": 3200,
+      "amount_captured": 3200,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788272340,
+      "description": "Handmade mug",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_uhq1qHquiVqJNyIuzfVEQN0V",
+      "billing_details": {
+        "name": "Hannah Vance",
+        "email": "hannah.vance@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "3485"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_xH1SCwmtT5ID2nmUvQQhmA37",
+      "failure_code": null
+    },
+    {
+      "id": "ch_TyDCqv9ginwxNcRIU7eDHXY6",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788373080,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0cEbYpUmq0yndzeSOQVsDfFG",
+      "billing_details": {
+        "name": "Dana Whitfield",
+        "email": "Dana.Whitfield@Example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "4523"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_secGCgXX7MHjtbyk1bc8UGT1",
+      "failure_code": null
+    },
+    {
+      "id": "ch_3QyF0zEKBVKKDb6xcCioGqAT",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788378300,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Quinn Asante",
+        "email": "qasante@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "5791"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_LG7hwnekzgg9yamqXG4fk4n0",
+      "failure_code": null
+    },
+    {
+      "id": "ch_BMD1YgHm9s89nQuXohuHmI4H",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788459360,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_iyHtTPl3sriy8N0O6wVW2HSb",
+      "billing_details": {
+        "name": "Theo Okafor",
+        "email": "theo.okafor@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "4319"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_v5pFcMmkAJBxEdtcKusz9NHZ",
+      "failure_code": null
+    },
+    {
+      "id": "ch_Ehax7EzJFwUKOoxpsPQJtG8v",
+      "object": "charge",
+      "amount": 5000,
+      "amount_captured": 5000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788462660,
+      "description": "Gift card",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_qEfUzBaaJ5fXpMU7PNjtKV6E",
+      "billing_details": {
+        "name": "Quinn Brennan",
+        "email": "quinn.brennan@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "2875"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_SKpD6LFPhhMtzpBsjNaKfZBe",
+      "failure_code": null
+    },
+    {
+      "id": "ch_8R0F5737O8cfOraMc5eRHHGH",
+      "object": "charge",
+      "amount": 3200,
+      "amount_captured": 3200,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788465360,
+      "description": "Handmade mug",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_vIsC2RJbSwAyKEhFULE4qA5D",
+      "billing_details": {
+        "name": "Rosa Brennan",
+        "email": "rosa.brennan@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "0872"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_HoyfbzIBMkkmUy8ODbeU8JGp",
+      "failure_code": null
+    },
+    {
+      "id": "ch_t2p4Lut5NOzACxgxZAQKJwVx",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788545760,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_e8YWqPkAIu3OEtmC15VvZKnB",
+      "billing_details": {
+        "name": "June Rhee",
+        "email": "june.rhee@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "4113"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_WazcbRHHdVAx47pmdodw1MCP",
+      "failure_code": null
+    },
+    {
+      "id": "ch_ZvynAAM40XIx11bokMDYAlbf",
+      "object": "charge",
+      "amount": 24000,
+      "amount_captured": 24000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788560520,
+      "description": "Beginner wheel course (6 weeks)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_j86mPRfzGKib6cIFo6DPvtDE",
+      "billing_details": {
+        "name": "Lena Holloway",
+        "email": "lena.holloway@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "1915"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_nhLN9Mzt3fevjMggY2IEKhvj",
+      "failure_code": null
+    },
+    {
+      "id": "ch_8UibC2dEBvgclNpHpg6aiLtW",
+      "object": "charge",
+      "amount": 12000,
+      "amount_captured": 12000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788562200,
+      "description": "Studio membership (monthly)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_j27X5wmQCVEAPcrCYBS7q5lA",
+      "billing_details": {
+        "name": "Iris Holloway",
+        "email": "iris.holloway@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "1676"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_RwUzNJMt11tTLlzcLGrT1m5T",
+      "failure_code": null
+    },
+    {
+      "id": "ch_BSMTbBx4C8nq4DPZci0gVXZN",
+      "object": "charge",
+      "amount": 12000,
+      "amount_captured": 12000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788565620,
+      "description": "Studio membership (monthly)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0cEbYpUmq0yndzeSOQVsDfFG",
+      "billing_details": {
+        "name": "Dana Whitfield",
+        "email": "Dana.Whitfield@Example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "6831"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_oMogUs5ko8qbZEIOf1BWdKYB",
+      "failure_code": null
+    },
+    {
+      "id": "ch_c8Dk36imLlUrYImy02LTJREV",
+      "object": "charge",
+      "amount": 11000,
+      "amount_captured": 11000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788617220,
+      "description": "Date night couples class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_EOweIXV77G1N58boA1hn1WSi",
+      "billing_details": {
+        "name": "Sam Patel",
+        "email": "sam.patel@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "3912"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_TY0ufmqekSntz0cq72rfcZWu",
+      "failure_code": null
+    },
+    {
+      "id": "ch_2oRegX92ScBZTU1zxPXldtq5",
+      "object": "charge",
+      "amount": 12000,
+      "amount_captured": 12000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788624360,
+      "description": "Studio membership (monthly)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_qdz3WzafbhQJ6vWLOM5tnC82",
+      "billing_details": {
+        "name": "Owen Kowalski",
+        "email": "owen.kowalski@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "2703"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_LSe7zDNjaWfhl7CMmjXs2lxw",
+      "failure_code": null
+    },
+    {
+      "id": "ch_A2O6a9mMtp8ZQHMc0JEQQdO2",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 8500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788634080,
+      "description": "Serving bowl",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_Y7GPSAi20hRPS78py9HORXym",
+      "billing_details": {
+        "name": "Avery Asante",
+        "email": "avery.asante@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "8874"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_6IGXHVN2WA5dLD1Dh417qpnm",
+      "failure_code": null
+    },
+    {
+      "id": "ch_PrnvfHgHQCvWijIQyKDlV6D4",
+      "object": "charge",
+      "amount": 11000,
+      "amount_captured": 11000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788636960,
+      "description": "Date night couples class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_6O723MAJ0WEVBafrga3Etyv9",
+      "billing_details": {
+        "name": "Mateo Kowalski",
+        "email": "mateo.kowalski@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "2216"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_Mr8H9v6SD54jC36Smh7Yets8",
+      "failure_code": null
+    },
+    {
+      "id": "ch_GFBGV37yegywelpoc0am6tyU",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788704340,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_ECMkKmMCoSHcOkO5c1NDQbOn",
+      "billing_details": {
+        "name": "June Kowalski",
+        "email": "june.kowalski@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "7059"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_EuvYpc3iBFfjLYD1WLkSkKFT",
+      "failure_code": null
+    },
+    {
+      "id": "ch_tfRrRGi6Y46qPark5Wr9U9eI",
+      "object": "charge",
+      "amount": 5000,
+      "amount_captured": 5000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788727620,
+      "description": "Gift card",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_e8YWqPkAIu3OEtmC15VvZKnB",
+      "billing_details": {
+        "name": "June Rhee",
+        "email": "june.rhee@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "4364"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_yl7MzIaIe28ctibdb6BdUKE8",
+      "failure_code": null
+    },
+    {
+      "id": "ch_Aw2iK2L495PDvq4dy7YfEWG9",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788795120,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Hannah Yilmaz",
+        "email": "hyilmaz@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "5186"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_KmIfqC9QQjqYUzYGkbOL8aTS",
+      "failure_code": null
+    },
+    {
+      "id": "ch_UiknC8WQKRcd9h9KIahh4dgo",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 8500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788883260,
+      "description": "Serving bowl",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0cEbYpUmq0yndzeSOQVsDfFG",
+      "billing_details": {
+        "name": "Dana Whitfield",
+        "email": "Dana.Whitfield@Example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "2346"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_vlK3B69D6X4ycFf1ygfGvdck",
+      "failure_code": null
+    },
+    {
+      "id": "ch_3mnEW21cm6wdRXB2S7S4VeNk",
+      "object": "charge",
+      "amount": 12000,
+      "amount_captured": 12000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788986280,
+      "description": "Studio membership (monthly)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_OdykqRiJLZX0DaUNO6uWXFMw",
+      "billing_details": {
+        "name": "Lena Vance",
+        "email": "lena.vance@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "4424"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_oNevwKIzHVunxc45ivjvjwSf",
+      "failure_code": null
+    },
+    {
+      "id": "ch_2HsUY8NyWqWd2UYR3S30TkbG",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 0,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1788996720,
+      "description": "Serving bowl",
+      "status": "failed",
+      "paid": false,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_K72FfP5W4szYGmag3dvvVbFu",
+      "billing_details": {
+        "name": "Hannah Asante",
+        "email": "hannah.asante@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "8090"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": null,
+      "failure_code": "card_declined"
+    },
+    {
+      "id": "ch_FnhbGY9yNZxihSl6RX2QmX6H",
+      "object": "charge",
+      "amount": 5500,
+      "amount_captured": 5500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789055460,
+      "description": "Kids clay camp (1 day)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0vQXnMrUTJIPiWfBgdwXOgtK",
+      "billing_details": {
+        "name": "Theo Holloway",
+        "email": "theo.holloway@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "6482"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_cSw4ryQrjiBq3NjY02tTByr9",
+      "failure_code": null
+    },
+    {
+      "id": "ch_uT9MfaWGWzbkFh10bf5AM9Gt",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789072560,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_iyHtTPl3sriy8N0O6wVW2HSb",
+      "billing_details": {
+        "name": "Theo Okafor",
+        "email": "theo.okafor@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "8461"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_iRTYrqdCBAXqkmADBKffx71V",
+      "failure_code": null
+    },
+    {
+      "id": "ch_dwbJwCJcARoF50Ly0CaULrrZ",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 8500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789073160,
+      "description": "Serving bowl",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Ravi Asante",
+        "email": "rasante@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "0734"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_2Cbzp0hA94DyKxeTHEGc6pAX",
+      "failure_code": null
+    },
+    {
+      "id": "ch_rrUrbkQXA0c4oVVjz0cQb2BK",
+      "object": "charge",
+      "amount": 24000,
+      "amount_captured": 24000,
+      "amount_refunded": 24000,
+      "currency": "usd",
+      "created": 1789081440,
+      "description": "Beginner wheel course (6 weeks)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": true,
+      "disputed": false,
+      "customer": "cus_6O723MAJ0WEVBafrga3Etyv9",
+      "billing_details": {
+        "name": "Mateo Kowalski",
+        "email": "mateo.kowalski@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "8243"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_tYFD9f75Yd7nKKV0fOn4sDoA",
+      "failure_code": null
+    },
+    {
+      "id": "ch_0HuVcCqGhrhamoXxcVbSmCTe",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 8500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789158180,
+      "description": "Serving bowl",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_OdykqRiJLZX0DaUNO6uWXFMw",
+      "billing_details": {
+        "name": "Lena Vance",
+        "email": "lena.vance@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "6896"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_d9ehR4u3rqxw96vPMNUdks1c",
+      "failure_code": null
+    },
+    {
+      "id": "ch_ivkGKcnkhAyzK8kZnlVkJUEx",
+      "object": "charge",
+      "amount": 24000,
+      "amount_captured": 24000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789158480,
+      "description": "Beginner wheel course (6 weeks)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_j86mPRfzGKib6cIFo6DPvtDE",
+      "billing_details": {
+        "name": "Lena Holloway",
+        "email": "lena.holloway@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "2081"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_NVxMdsu7EFDEzsj1cASt9esL",
+      "failure_code": null
+    },
+    {
+      "id": "ch_ZHh9YbjwMVXBdEGEpJ7VhKH3",
+      "object": "charge",
+      "amount": 24000,
+      "amount_captured": 24000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789230720,
+      "description": "Beginner wheel course (6 weeks)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Hannah Holloway",
+        "email": "hholloway@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "5185"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_Ezax7sG4TPQRRzdHEve3qsGe",
+      "failure_code": null
+    },
+    {
+      "id": "ch_meL45nbqBxPWGzJHtXReAeZO",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 8500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789238520,
+      "description": "Serving bowl",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Rosa Okafor",
+        "email": "rokafor@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "4142"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_c4ANAo8lK1wryVFT5vBhE7ry",
+      "failure_code": null
+    },
+    {
+      "id": "ch_0txeHGYfOiiysPNdo4P4wAU4",
+      "object": "charge",
+      "amount": 24000,
+      "amount_captured": 24000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789241820,
+      "description": "Beginner wheel course (6 weeks)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_EOweIXV77G1N58boA1hn1WSi",
+      "billing_details": {
+        "name": "Sam Patel",
+        "email": "sam.patel@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "5943"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_HLhnxgma6xmjRDcJBKf9IB5U",
+      "failure_code": null
+    },
+    {
+      "id": "ch_rYiefkidVCbGDEF9usDfg6x3",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789245600,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_ECMkKmMCoSHcOkO5c1NDQbOn",
+      "billing_details": {
+        "name": "June Kowalski",
+        "email": "june.kowalski@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "3503"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_T9lB72rV9rthumNCzDXRse8m",
+      "failure_code": null
+    },
+    {
+      "id": "ch_FZTrLpesnMnxJBt9zu6iCqSa",
+      "object": "charge",
+      "amount": 3200,
+      "amount_captured": 3200,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789252860,
+      "description": "Handmade mug",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_Y7GPSAi20hRPS78py9HORXym",
+      "billing_details": {
+        "name": "Avery Asante",
+        "email": "avery.asante@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "4375"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_9FTwGvBYiuHuVeG8RqNynEwz",
+      "failure_code": null
+    },
+    {
+      "id": "ch_9633EhkBp1ancWrGt5ZZ7ZmJ",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789326480,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0vQXnMrUTJIPiWfBgdwXOgtK",
+      "billing_details": {
+        "name": "Theo Holloway",
+        "email": "theo.holloway@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "8385"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_3mFNR7XrUsWuHy0D8w6bSsiw",
+      "failure_code": null
+    },
+    {
+      "id": "ch_yY8vo3U5kYdSj0yTsbv8Nnb0",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789330260,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_EOweIXV77G1N58boA1hn1WSi",
+      "billing_details": {
+        "name": "Sam Patel",
+        "email": "sam.patel@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "7423"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_eZuwuVRmqH6cUjSpXGGnFqa9",
+      "failure_code": null
+    },
+    {
+      "id": "ch_Ln1oc7z9CU0dWGspvjOug5mG",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789338600,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": true,
+      "customer": "cus_vIsC2RJbSwAyKEhFULE4qA5D",
+      "billing_details": {
+        "name": "Rosa Brennan",
+        "email": "rosa.brennan@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "2041"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_bseh4CbqRiJ0oH42qoQ2Rm3X",
+      "failure_code": null
+    },
+    {
+      "id": "ch_f6BE63cyxDx45K6oAKVhTRRl",
+      "object": "charge",
+      "amount": 6400,
+      "amount_captured": 6400,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789396680,
+      "description": "Handmade mug x2",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_bhPRV0dsGLpgugZeqshDEIpw",
+      "billing_details": {
+        "name": "Malik Lindqvist",
+        "email": "malik.lindqvist@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "2054"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_ltRzRcBH6uUrurDlNCVUAPQl",
+      "failure_code": null
+    },
+    {
+      "id": "ch_ocTlFJH7BoAYuE8AIamcRgjf",
+      "object": "charge",
+      "amount": 3200,
+      "amount_captured": 3200,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789415040,
+      "description": "Handmade mug",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Nadia Yilmaz",
+        "email": "nyilmaz@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "2231"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_k6gt3yOEBXOX7bI4f5THJmnj",
+      "failure_code": null
+    },
+    {
+      "id": "ch_iBu2tZXrqOe7J3X2MlLk36fc",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 8500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789427280,
+      "description": "Serving bowl",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Felix Okafor",
+        "email": "fokafor@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "3174"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_SflInOBi4FtGzuU8XIW1DhvK",
+      "failure_code": null
+    },
+    {
+      "id": "ch_S8dBqHUtPHaIuhVlP91nMRdZ",
+      "object": "charge",
+      "amount": 48000,
+      "amount_captured": 48000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789501620,
+      "description": "Wholesale order - invoice #1043",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0u9yMHjI8TiYOdPcW6lqHwCl",
+      "billing_details": {
+        "name": "Ferncliff Coffee Co.",
+        "email": "ap@ferncliff.example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "1065"
+        }
+      },
+      "metadata": {
+        "qbo_invoice": "1043"
+      },
+      "balance_transaction": "txn_aQRKLgYqiueO71wCHd3RmMBR",
+      "failure_code": null
+    },
+    {
+      "id": "ch_OVeqJgFr5MLY5DQ4DL2iwNap",
+      "object": "charge",
+      "amount": 5500,
+      "amount_captured": 5500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789504620,
+      "description": "Kids clay camp (1 day)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_Y7GPSAi20hRPS78py9HORXym",
+      "billing_details": {
+        "name": "Avery Asante",
+        "email": "avery.asante@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "9030"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_t05bYjXL68sL391s7vgAD6HA",
+      "failure_code": null
+    },
+    {
+      "id": "ch_ZnDldtP3tgngPDCRrRP9OfoU",
+      "object": "charge",
+      "amount": 24000,
+      "amount_captured": 24000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789512720,
+      "description": "Beginner wheel course (6 weeks)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Priya Okafor",
+        "email": "pokafor@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "1471"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_X26QxMTQuBUhzc6iOkylLmBA",
+      "failure_code": null
+    },
+    {
+      "id": "ch_cXBzfoupVPEZgkO7RrlPWbIF",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789583400,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_vIsC2RJbSwAyKEhFULE4qA5D",
+      "billing_details": {
+        "name": "Rosa Brennan",
+        "email": "rosa.brennan@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "4873"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_uqPiOM32RhkO6M8Uf2BYqrIY",
+      "failure_code": null
+    },
+    {
+      "id": "ch_MvF3U98eaFd4YrFwcvlREMYC",
+      "object": "charge",
+      "amount": 5000,
+      "amount_captured": 5000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789666680,
+      "description": "Gift card",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_uhq1qHquiVqJNyIuzfVEQN0V",
+      "billing_details": {
+        "name": "Hannah Vance",
+        "email": "hannah.vance@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "7397"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_tHHceFc8iLSdxq52EhoWjZHE",
+      "failure_code": null
+    },
+    {
+      "id": "ch_SQQ33nOL3LDnPIxDYAT2Ppxh",
+      "object": "charge",
+      "amount": 6400,
+      "amount_captured": 6400,
+      "amount_refunded": 3200,
+      "currency": "usd",
+      "created": 1789746780,
+      "description": "Handmade mug x2",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_vIsC2RJbSwAyKEhFULE4qA5D",
+      "billing_details": {
+        "name": "Rosa Brennan",
+        "email": "rosa.brennan@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "6146"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_t3Qz8St9EW81J3VikMMFyVle",
+      "failure_code": null
+    },
+    {
+      "id": "ch_A8elgWh5yqvI62NMEGlZMn41",
+      "object": "charge",
+      "amount": 24000,
+      "amount_captured": 24000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789746900,
+      "description": "Beginner wheel course (6 weeks)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_K72FfP5W4szYGmag3dvvVbFu",
+      "billing_details": {
+        "name": "Hannah Asante",
+        "email": "hannah.asante@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "3610"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_NK5dNgabYDqXOc10VrSdGv2u",
+      "failure_code": null
+    },
+    {
+      "id": "ch_6ehIqV2ly1bfklMRxAjauuJV",
+      "object": "charge",
+      "amount": 11000,
+      "amount_captured": 11000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789751520,
+      "description": "Date night couples class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Iris Rhee",
+        "email": "irhee@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "2488"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_HuZEUcpwzh3wiJmOgq9x3Vck",
+      "failure_code": null
+    },
+    {
+      "id": "ch_NDxXZmJHg7ksL9s92pXtDDg6",
+      "object": "charge",
+      "amount": 11000,
+      "amount_captured": 11000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789769700,
+      "description": "Date night couples class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_e8YWqPkAIu3OEtmC15VvZKnB",
+      "billing_details": {
+        "name": "June Rhee",
+        "email": "june.rhee@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "3994"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_3WBUUK1hLRmLvihOVWzEiNqg",
+      "failure_code": null
+    },
+    {
+      "id": "ch_JbQSATcIGLNy41VhkqSWN3YP",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 8500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789830720,
+      "description": "Serving bowl",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_ECMkKmMCoSHcOkO5c1NDQbOn",
+      "billing_details": {
+        "name": "June Kowalski",
+        "email": "june.kowalski@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "7979"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_JwgJAphSED9RtEX9cdZIcnwJ",
+      "failure_code": null
+    },
+    {
+      "id": "ch_EB6qXwsngJqRelqTDgj2OGv1",
+      "object": "charge",
+      "amount": 24000,
+      "amount_captured": 24000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789844520,
+      "description": "Beginner wheel course (6 weeks)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_iyHtTPl3sriy8N0O6wVW2HSb",
+      "billing_details": {
+        "name": "Theo Okafor",
+        "email": "theo.okafor@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "1001"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_oxoZsZPF8TOCgdgXOhCYaRz5",
+      "failure_code": null
+    },
+    {
+      "id": "ch_icNyqamcCrwsDCuoujQRd9b1",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789849200,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_OdykqRiJLZX0DaUNO6uWXFMw",
+      "billing_details": {
+        "name": "Lena Vance",
+        "email": "lena.vance@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "3695"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_c6UWSOvnL9gfiDUkstKJIVri",
+      "failure_code": null
+    },
+    {
+      "id": "ch_LylyIl6GYTn0YuZyVm1K1R5j",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 8500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789861320,
+      "description": "Serving bowl",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Marcus Vance",
+        "email": "mvance@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "2484"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_TRxQoDtE32kMHqGukVXPiG5L",
+      "failure_code": null
+    },
+    {
+      "id": "ch_2MndvPB8aiEv1fzkqqAoZnXZ",
+      "object": "charge",
+      "amount": 11000,
+      "amount_captured": 11000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789920480,
+      "description": "Date night couples class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_ECMkKmMCoSHcOkO5c1NDQbOn",
+      "billing_details": {
+        "name": "June Kowalski",
+        "email": "june.kowalski@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "9518"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_J0tJvpNj8w3IuUzNiNIgPlGx",
+      "failure_code": null
+    },
+    {
+      "id": "ch_58xE38xyYFoGrpQQqoavsMfg",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789928280,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Quinn Fairbanks",
+        "email": "qfairbanks@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "4617"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_atuJXrQqH7NehtQv8HCQJpxq",
+      "failure_code": null
+    },
+    {
+      "id": "ch_aC7ewTtWyHoUC31dtCNvAFj0",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789933740,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_OdykqRiJLZX0DaUNO6uWXFMw",
+      "billing_details": {
+        "name": "Lena Vance",
+        "email": "lena.vance@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "1993"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_PIfbAqMf8bujYJcuhTjpOlra",
+      "failure_code": null
+    },
+    {
+      "id": "ch_SzI8N27xATbcCFMLKfbwzLIz",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1789944480,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_j27X5wmQCVEAPcrCYBS7q5lA",
+      "billing_details": {
+        "name": "Iris Holloway",
+        "email": "iris.holloway@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "8945"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_tPyIEXGmC9mhkzoCOHbdOYYY",
+      "failure_code": null
+    },
+    {
+      "id": "ch_VCpG7Pbl2dMoXMo2k4KD4qoO",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790004180,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Theo Delgado",
+        "email": "tdelgado@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "8510"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_Qy8MzcOyiDw1ubf4QuaoVJ6o",
+      "failure_code": null
+    },
+    {
+      "id": "ch_F0473YuFSbHO5Pjk79klQtA9",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790006700,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Marcus Sorensen",
+        "email": "msorensen@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "4250"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_nqjpVkh9s7iqjfstylO7GiNT",
+      "failure_code": null
+    },
+    {
+      "id": "ch_c5cSE70EgAzmqNIa4nP2bbte",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790027580,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_Y7GPSAi20hRPS78py9HORXym",
+      "billing_details": {
+        "name": "Avery Asante",
+        "email": "avery.asante@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "3709"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_wk7smkXBVKADfERYUpVgRLxE",
+      "failure_code": null
+    },
+    {
+      "id": "ch_JZtioN0e588oj6NplRWzY5yt",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790089980,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_6O723MAJ0WEVBafrga3Etyv9",
+      "billing_details": {
+        "name": "Mateo Kowalski",
+        "email": "mateo.kowalski@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "0950"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_Dy3e2jEBOYJhxtivryQOBVr4",
+      "failure_code": null
+    },
+    {
+      "id": "ch_e9x5wiFRloWUU3JhUuNAk2nd",
+      "object": "charge",
+      "amount": 12000,
+      "amount_captured": 12000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790103420,
+      "description": "Studio membership (monthly)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_vIsC2RJbSwAyKEhFULE4qA5D",
+      "billing_details": {
+        "name": "Rosa Brennan",
+        "email": "rosa.brennan@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "5767"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_qZUTUPges8nXy2mKFpxNoaaZ",
+      "failure_code": null
+    },
+    {
+      "id": "ch_XFdfljkFKdXnpAOjKUvaHuqK",
+      "object": "charge",
+      "amount": 11000,
+      "amount_captured": 11000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790111940,
+      "description": "Date night couples class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_bhPRV0dsGLpgugZeqshDEIpw",
+      "billing_details": {
+        "name": "Malik Lindqvist",
+        "email": "malik.lindqvist@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "8942"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_spnMLWFt6tY3enlBxppdGJzW",
+      "failure_code": null
+    },
+    {
+      "id": "ch_VSONAX2rp0m9JSTpq4thVpZ5",
+      "object": "charge",
+      "amount": 6400,
+      "amount_captured": 6400,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790184120,
+      "description": "Handmade mug x2",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_OdykqRiJLZX0DaUNO6uWXFMw",
+      "billing_details": {
+        "name": "Lena Vance",
+        "email": "lena.vance@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "2623"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_aDbOn8kamc5x9eURALfvZ1mN",
+      "failure_code": null
+    },
+    {
+      "id": "ch_RWONpreUZGfI788yQ7EfiRYj",
+      "object": "charge",
+      "amount": 10000,
+      "amount_captured": 10000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790189280,
+      "description": "Gift card",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_uhq1qHquiVqJNyIuzfVEQN0V",
+      "billing_details": {
+        "name": "Hannah Vance",
+        "email": "hannah.vance@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "4148"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_4nwqw1lV6609BtL5dLnjvm0h",
+      "failure_code": null
+    },
+    {
+      "id": "ch_KBcGz1Pts6T1iETyXihjhLFv",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790191140,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_ECMkKmMCoSHcOkO5c1NDQbOn",
+      "billing_details": {
+        "name": "June Kowalski",
+        "email": "june.kowalski@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "8812"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_7G1fGip5W71QMPZVshzxuFkW",
+      "failure_code": null
+    },
+    {
+      "id": "ch_bgCNY5fWZk0oE6whtF7ZUu1p",
+      "object": "charge",
+      "amount": 11000,
+      "amount_captured": 0,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790204400,
+      "description": "Date night couples class",
+      "status": "failed",
+      "paid": false,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_Y7GPSAi20hRPS78py9HORXym",
+      "billing_details": {
+        "name": "Avery Asante",
+        "email": "avery.asante@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "5986"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": null,
+      "failure_code": "card_declined"
+    },
+    {
+      "id": "ch_AQt54I5l3H1WoplA07akL8cQ",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790267520,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0cEbYpUmq0yndzeSOQVsDfFG",
+      "billing_details": {
+        "name": "Dana Whitfield",
+        "email": "Dana.Whitfield@Example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "7900"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_IesGdsfaVDFKDKi1eb51OOhu",
+      "failure_code": null
+    },
+    {
+      "id": "ch_mw2caz7CvqzHoaESqnfwFerE",
+      "object": "charge",
+      "amount": 12000,
+      "amount_captured": 12000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790289900,
+      "description": "Studio membership (monthly)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_Mj36YZRXNfxTiT9bn0KJ7x7G",
+      "billing_details": {
+        "name": "Owen Mercer",
+        "email": "owen.mercer@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "1060"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_n1jL9iMVlIT0BYXn2wwE0Djt",
+      "failure_code": null
+    },
+    {
+      "id": "ch_5FYYsdC3sYtvqFlFlwcom06q",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790354880,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_ECMkKmMCoSHcOkO5c1NDQbOn",
+      "billing_details": {
+        "name": "June Kowalski",
+        "email": "june.kowalski@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "0055"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_icL8VM3RNrfJ6eW8taEegCuR",
+      "failure_code": null
+    },
+    {
+      "id": "ch_svj3WMqz8UdUpU7sMU53H25X",
+      "object": "charge",
+      "amount": 3200,
+      "amount_captured": 3200,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790361360,
+      "description": "Handmade mug",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0vQXnMrUTJIPiWfBgdwXOgtK",
+      "billing_details": {
+        "name": "Theo Holloway",
+        "email": "theo.holloway@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "9522"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_vGZXQV6AsTqOwExrTx1lQEC5",
+      "failure_code": null
+    },
+    {
+      "id": "ch_q9DGQZ6njTLvPHobsWknCPZ0",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790372640,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_OdykqRiJLZX0DaUNO6uWXFMw",
+      "billing_details": {
+        "name": "Lena Vance",
+        "email": "lena.vance@example.net"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "6045"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_vonhYu04kiJEPBBv1wwCkQvS",
+      "failure_code": null
+    },
+    {
+      "id": "ch_l2puDG9BrDaI7lhItCmEojK5",
+      "object": "charge",
+      "amount": 24000,
+      "amount_captured": 24000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790438520,
+      "description": "Beginner wheel course (6 weeks)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Theo Whitlock",
+        "email": "twhitlock@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "3178"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_qr7EwG3qENEFvyXgcctYCAPS",
+      "failure_code": null
+    },
+    {
+      "id": "ch_b40W60KXS9tBxBwZuNbfvJxT",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790459700,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0cEbYpUmq0yndzeSOQVsDfFG",
+      "billing_details": {
+        "name": "Dana Whitfield",
+        "email": "Dana.Whitfield@Example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "1457"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_Shf9RCKfvfhc0gHwTyc8A4mZ",
+      "failure_code": null
+    },
+    {
+      "id": "ch_Wvg1x4LzVnN874iJa6BT4Ipd",
+      "object": "charge",
+      "amount": 12000,
+      "amount_captured": 12000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790521620,
+      "description": "Studio membership (monthly)",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_0yAzesvqEWzCuDhXXY0o72Oz",
+      "billing_details": {
+        "name": "Hannah Castillo",
+        "email": "hannah.castillo@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "0631"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_up1CQhevBZaQ0vsljGRImoid",
+      "failure_code": null
+    },
+    {
+      "id": "ch_jUJ3ojZd0EH3mA9ZKjSOVBpA",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 4500,
+      "currency": "usd",
+      "created": 1790539260,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": true,
+      "disputed": false,
+      "customer": "cus_j86mPRfzGKib6cIFo6DPvtDE",
+      "billing_details": {
+        "name": "Lena Holloway",
+        "email": "lena.holloway@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "2850"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_cMdPmdrL9S3GiLBwAMF2ay97",
+      "failure_code": null
+    },
+    {
+      "id": "ch_oUiHeZROw21BwQ6haFsh8jyo",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790541120,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_hzxWPWlbSHI3WobHz7iMflc1",
+      "billing_details": {
+        "name": "Avery Vance",
+        "email": "avery.vance@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "amex",
+          "last4": "5133"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_ZToVdKH6DEiyBAQlVwcfOqeW",
+      "failure_code": null
+    },
+    {
+      "id": "ch_tS9BhY3mzSDuDPAkitkdERn2",
+      "object": "charge",
+      "amount": 3200,
+      "amount_captured": 3200,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790546340,
+      "description": "Handmade mug",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_j27X5wmQCVEAPcrCYBS7q5lA",
+      "billing_details": {
+        "name": "Iris Holloway",
+        "email": "iris.holloway@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "8058"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_jNxCADB7N2nqkDcN9iAq1muE",
+      "failure_code": null
+    },
+    {
+      "id": "ch_HHtE2ZLXdOr0KRoI9LT6AArA",
+      "object": "charge",
+      "amount": 5000,
+      "amount_captured": 5000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790604360,
+      "description": "Gift card",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Iris Delgado",
+        "email": "idelgado@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "discover",
+          "last4": "1128"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_yHCWh3MdL7ABFjuUWh2YnOq3",
+      "failure_code": null
+    },
+    {
+      "id": "ch_lUobEY9ApqkA6LTxHaNdM7iT",
+      "object": "charge",
+      "amount": 11000,
+      "amount_captured": 11000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790607720,
+      "description": "Date night couples class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_bhPRV0dsGLpgugZeqshDEIpw",
+      "billing_details": {
+        "name": "Malik Lindqvist",
+        "email": "malik.lindqvist@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "2262"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_EuGVpTF8SMivOCBJMXPvTmR1",
+      "failure_code": null
+    },
+    {
+      "id": "ch_7Y6KQEWgGSckjiNqUczSOYqL",
+      "object": "charge",
+      "amount": 11000,
+      "amount_captured": 11000,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790693160,
+      "description": "Date night couples class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_j27X5wmQCVEAPcrCYBS7q5lA",
+      "billing_details": {
+        "name": "Iris Holloway",
+        "email": "iris.holloway@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "4969"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_1gRv9pKnpbWmY746kSyM5CEo",
+      "failure_code": null
+    },
+    {
+      "id": "ch_c3ZvxpNpguF2LtIWEuCkW1Qr",
+      "object": "charge",
+      "amount": 6400,
+      "amount_captured": 6400,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790695860,
+      "description": "Handmade mug x2",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Caleb Lindqvist",
+        "email": "clindqvist@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "mastercard",
+          "last4": "1781"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_F3hdWohrOsYpRAO4RsX0Qfmo",
+      "failure_code": null
+    },
+    {
+      "id": "ch_tFAdKyVLCf2s828ecFgirKYw",
+      "object": "charge",
+      "amount": 4500,
+      "amount_captured": 4500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790705940,
+      "description": "Drop-in wheel class",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_bhPRV0dsGLpgugZeqshDEIpw",
+      "billing_details": {
+        "name": "Malik Lindqvist",
+        "email": "malik.lindqvist@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "7565"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_OKgXhlweoI7dc8v1pItPaY0k",
+      "failure_code": null
+    },
+    {
+      "id": "ch_3cfNswf7AvYorYRauUtYOt9Q",
+      "object": "charge",
+      "amount": 8500,
+      "amount_captured": 8500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790781120,
+      "description": "Serving bowl",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Felix Delgado",
+        "email": "fdelgado@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "4268"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_CAVnwG2Qn2Nc6upWnnvDZqjL",
+      "failure_code": null
+    },
+    {
+      "id": "ch_hJOTMA2o0vxIYtdl2tXFJRjw",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790787240,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": "cus_6O723MAJ0WEVBafrga3Etyv9",
+      "billing_details": {
+        "name": "Mateo Kowalski",
+        "email": "mateo.kowalski@example.org"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "2693"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_g13Tvgc3WLFef2Mh4hJNJ6QS",
+      "failure_code": null
+    },
+    {
+      "id": "ch_GGg0qD81cDPZSUhvzyvIdsnh",
+      "object": "charge",
+      "amount": 6500,
+      "amount_captured": 6500,
+      "amount_refunded": 0,
+      "currency": "usd",
+      "created": 1790791980,
+      "description": "Glaze & fire workshop",
+      "status": "succeeded",
+      "paid": true,
+      "refunded": false,
+      "disputed": false,
+      "customer": null,
+      "billing_details": {
+        "name": "Mateo Whitlock",
+        "email": "mwhitlock@example.com"
+      },
+      "payment_method_details": {
+        "type": "card",
+        "card": {
+          "brand": "visa",
+          "last4": "4737"
+        }
+      },
+      "metadata": {},
+      "balance_transaction": "txn_enSqDWmjJ4FN6i7Mt0kiPdXN",
+      "failure_code": null
+    }
+  ],
+  "refunds": [
+    {
+      "id": "re_hzpYUJuvs75XX2KRupd1JOdt",
+      "object": "refund",
+      "amount": 24000,
+      "charge": "ch_rrUrbkQXA0c4oVVjz0cQb2BK",
+      "currency": "usd",
+      "created": 1789135680,
+      "reason": "requested_by_customer",
+      "status": "succeeded",
+      "balance_transaction": "txn_tyEVqFdeBswr7XhyTP50M1e1"
+    },
+    {
+      "id": "re_DQRpfDDK7ToBT6Yh4odAg5Nm",
+      "object": "refund",
+      "amount": 3200,
+      "charge": "ch_SQQ33nOL3LDnPIxDYAT2Ppxh",
+      "currency": "usd",
+      "created": 1789916640,
+      "reason": "requested_by_customer",
+      "status": "succeeded",
+      "balance_transaction": "txn_5uW9UC6C9wOtQmmROwH88VW6"
+    },
+    {
+      "id": "re_zoAMqx84TXccHrWhGwGPW8NN",
+      "object": "refund",
+      "amount": 4500,
+      "charge": "ch_jUJ3ojZd0EH3mA9ZKjSOVBpA",
+      "currency": "usd",
+      "created": 1790637840,
+      "reason": "requested_by_customer",
+      "status": "succeeded",
+      "balance_transaction": "txn_ZzNCTk50TYcs7YNv1c78vMaU"
+    }
+  ],
+  "balance_transactions": [
+    {
+      "id": "txn_xH1SCwmtT5ID2nmUvQQhmA37",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 3200,
+      "fee": 123,
+      "net": 3077,
+      "currency": "usd",
+      "source": "ch_nwHCUjuScafKRYpUklYAAZkn",
+      "created": 1788272340,
+      "available_on": 1788436800,
+      "description": "Handmade mug",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 123,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_secGCgXX7MHjtbyk1bc8UGT1",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_TyDCqv9ginwxNcRIU7eDHXY6",
+      "created": 1788373080,
+      "available_on": 1788523200,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_LG7hwnekzgg9yamqXG4fk4n0",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_3QyF0zEKBVKKDb6xcCioGqAT",
+      "created": 1788378300,
+      "available_on": 1788523200,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_v5pFcMmkAJBxEdtcKusz9NHZ",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_BMD1YgHm9s89nQuXohuHmI4H",
+      "created": 1788459360,
+      "available_on": 1788609600,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_SKpD6LFPhhMtzpBsjNaKfZBe",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 5000,
+      "fee": 175,
+      "net": 4825,
+      "currency": "usd",
+      "source": "ch_Ehax7EzJFwUKOoxpsPQJtG8v",
+      "created": 1788462660,
+      "available_on": 1788609600,
+      "description": "Gift card",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 175,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_HoyfbzIBMkkmUy8ODbeU8JGp",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 3200,
+      "fee": 123,
+      "net": 3077,
+      "currency": "usd",
+      "source": "ch_8R0F5737O8cfOraMc5eRHHGH",
+      "created": 1788465360,
+      "available_on": 1788609600,
+      "description": "Handmade mug",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 123,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_WazcbRHHdVAx47pmdodw1MCP",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_t2p4Lut5NOzACxgxZAQKJwVx",
+      "created": 1788545760,
+      "available_on": 1788696000,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_nhLN9Mzt3fevjMggY2IEKhvj",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 24000,
+      "fee": 726,
+      "net": 23274,
+      "currency": "usd",
+      "source": "ch_ZvynAAM40XIx11bokMDYAlbf",
+      "created": 1788560520,
+      "available_on": 1788696000,
+      "description": "Beginner wheel course (6 weeks)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 726,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_RwUzNJMt11tTLlzcLGrT1m5T",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 12000,
+      "fee": 378,
+      "net": 11622,
+      "currency": "usd",
+      "source": "ch_8UibC2dEBvgclNpHpg6aiLtW",
+      "created": 1788562200,
+      "available_on": 1788696000,
+      "description": "Studio membership (monthly)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 378,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_oMogUs5ko8qbZEIOf1BWdKYB",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 12000,
+      "fee": 378,
+      "net": 11622,
+      "currency": "usd",
+      "source": "ch_BSMTbBx4C8nq4DPZci0gVXZN",
+      "created": 1788565620,
+      "available_on": 1788696000,
+      "description": "Studio membership (monthly)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 378,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_TY0ufmqekSntz0cq72rfcZWu",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 11000,
+      "fee": 349,
+      "net": 10651,
+      "currency": "usd",
+      "source": "ch_c8Dk36imLlUrYImy02LTJREV",
+      "created": 1788617220,
+      "available_on": 1788782400,
+      "description": "Date night couples class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 349,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_LSe7zDNjaWfhl7CMmjXs2lxw",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 12000,
+      "fee": 378,
+      "net": 11622,
+      "currency": "usd",
+      "source": "ch_2oRegX92ScBZTU1zxPXldtq5",
+      "created": 1788624360,
+      "available_on": 1788782400,
+      "description": "Studio membership (monthly)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 378,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_6IGXHVN2WA5dLD1Dh417qpnm",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 8500,
+      "fee": 276,
+      "net": 8224,
+      "currency": "usd",
+      "source": "ch_A2O6a9mMtp8ZQHMc0JEQQdO2",
+      "created": 1788634080,
+      "available_on": 1788782400,
+      "description": "Serving bowl",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 276,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_Mr8H9v6SD54jC36Smh7Yets8",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 11000,
+      "fee": 349,
+      "net": 10651,
+      "currency": "usd",
+      "source": "ch_PrnvfHgHQCvWijIQyKDlV6D4",
+      "created": 1788636960,
+      "available_on": 1788782400,
+      "description": "Date night couples class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 349,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_EuvYpc3iBFfjLYD1WLkSkKFT",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_GFBGV37yegywelpoc0am6tyU",
+      "created": 1788704340,
+      "available_on": 1788868800,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_yl7MzIaIe28ctibdb6BdUKE8",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 5000,
+      "fee": 175,
+      "net": 4825,
+      "currency": "usd",
+      "source": "ch_tfRrRGi6Y46qPark5Wr9U9eI",
+      "created": 1788727620,
+      "available_on": 1788868800,
+      "description": "Gift card",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 175,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_e9gviHlX6TMOqSn698hWt1Tj",
+      "object": "balance_transaction",
+      "type": "payout",
+      "amount": -121831,
+      "fee": 0,
+      "net": -121831,
+      "currency": "usd",
+      "source": "po_4aiFO15fV1ClZIbLhUzPaZ99",
+      "created": 1788782400,
+      "available_on": 1788782400,
+      "description": "STRIPE PAYOUT",
+      "fee_details": []
+    },
+    {
+      "id": "txn_KmIfqC9QQjqYUzYGkbOL8aTS",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_Aw2iK2L495PDvq4dy7YfEWG9",
+      "created": 1788795120,
+      "available_on": 1788955200,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_vlK3B69D6X4ycFf1ygfGvdck",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 8500,
+      "fee": 276,
+      "net": 8224,
+      "currency": "usd",
+      "source": "ch_UiknC8WQKRcd9h9KIahh4dgo",
+      "created": 1788883260,
+      "available_on": 1789041600,
+      "description": "Serving bowl",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 276,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_oNevwKIzHVunxc45ivjvjwSf",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 12000,
+      "fee": 378,
+      "net": 11622,
+      "currency": "usd",
+      "source": "ch_3mnEW21cm6wdRXB2S7S4VeNk",
+      "created": 1788986280,
+      "available_on": 1789128000,
+      "description": "Studio membership (monthly)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 378,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_cSw4ryQrjiBq3NjY02tTByr9",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 5500,
+      "fee": 190,
+      "net": 5310,
+      "currency": "usd",
+      "source": "ch_FnhbGY9yNZxihSl6RX2QmX6H",
+      "created": 1789055460,
+      "available_on": 1789214400,
+      "description": "Kids clay camp (1 day)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 190,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_iRTYrqdCBAXqkmADBKffx71V",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_uT9MfaWGWzbkFh10bf5AM9Gt",
+      "created": 1789072560,
+      "available_on": 1789214400,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_2Cbzp0hA94DyKxeTHEGc6pAX",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 8500,
+      "fee": 276,
+      "net": 8224,
+      "currency": "usd",
+      "source": "ch_dwbJwCJcARoF50Ly0CaULrrZ",
+      "created": 1789073160,
+      "available_on": 1789214400,
+      "description": "Serving bowl",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 276,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_tYFD9f75Yd7nKKV0fOn4sDoA",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 24000,
+      "fee": 726,
+      "net": 23274,
+      "currency": "usd",
+      "source": "ch_rrUrbkQXA0c4oVVjz0cQb2BK",
+      "created": 1789081440,
+      "available_on": 1789214400,
+      "description": "Beginner wheel course (6 weeks)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 726,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_tyEVqFdeBswr7XhyTP50M1e1",
+      "object": "balance_transaction",
+      "type": "refund",
+      "amount": -24000,
+      "fee": 0,
+      "net": -24000,
+      "currency": "usd",
+      "source": "re_hzpYUJuvs75XX2KRupd1JOdt",
+      "created": 1789135680,
+      "available_on": 1789128000,
+      "description": "REFUND FOR CHARGE (Beginner wheel course (6 weeks))",
+      "fee_details": []
+    },
+    {
+      "id": "txn_d9ehR4u3rqxw96vPMNUdks1c",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 8500,
+      "fee": 276,
+      "net": 8224,
+      "currency": "usd",
+      "source": "ch_0HuVcCqGhrhamoXxcVbSmCTe",
+      "created": 1789158180,
+      "available_on": 1789300800,
+      "description": "Serving bowl",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 276,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_NVxMdsu7EFDEzsj1cASt9esL",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 24000,
+      "fee": 726,
+      "net": 23274,
+      "currency": "usd",
+      "source": "ch_ivkGKcnkhAyzK8kZnlVkJUEx",
+      "created": 1789158480,
+      "available_on": 1789300800,
+      "description": "Beginner wheel course (6 weeks)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 726,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_Ezax7sG4TPQRRzdHEve3qsGe",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 24000,
+      "fee": 726,
+      "net": 23274,
+      "currency": "usd",
+      "source": "ch_ZHh9YbjwMVXBdEGEpJ7VhKH3",
+      "created": 1789230720,
+      "available_on": 1789387200,
+      "description": "Beginner wheel course (6 weeks)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 726,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_c4ANAo8lK1wryVFT5vBhE7ry",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 8500,
+      "fee": 276,
+      "net": 8224,
+      "currency": "usd",
+      "source": "ch_meL45nbqBxPWGzJHtXReAeZO",
+      "created": 1789238520,
+      "available_on": 1789387200,
+      "description": "Serving bowl",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 276,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_HLhnxgma6xmjRDcJBKf9IB5U",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 24000,
+      "fee": 726,
+      "net": 23274,
+      "currency": "usd",
+      "source": "ch_0txeHGYfOiiysPNdo4P4wAU4",
+      "created": 1789241820,
+      "available_on": 1789387200,
+      "description": "Beginner wheel course (6 weeks)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 726,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_T9lB72rV9rthumNCzDXRse8m",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_rYiefkidVCbGDEF9usDfg6x3",
+      "created": 1789245600,
+      "available_on": 1789387200,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_9FTwGvBYiuHuVeG8RqNynEwz",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 3200,
+      "fee": 123,
+      "net": 3077,
+      "currency": "usd",
+      "source": "ch_FZTrLpesnMnxJBt9zu6iCqSa",
+      "created": 1789252860,
+      "available_on": 1789387200,
+      "description": "Handmade mug",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 123,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_3mFNR7XrUsWuHy0D8w6bSsiw",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_9633EhkBp1ancWrGt5ZZ7ZmJ",
+      "created": 1789326480,
+      "available_on": 1789473600,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_eZuwuVRmqH6cUjSpXGGnFqa9",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_yY8vo3U5kYdSj0yTsbv8Nnb0",
+      "created": 1789330260,
+      "available_on": 1789473600,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_bseh4CbqRiJ0oH42qoQ2Rm3X",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_Ln1oc7z9CU0dWGspvjOug5mG",
+      "created": 1789338600,
+      "available_on": 1789473600,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_PZqqu9IwO0LtYBGbdkwpWvIR",
+      "object": "balance_transaction",
+      "type": "payout",
+      "amount": -146128,
+      "fee": 0,
+      "net": -146128,
+      "currency": "usd",
+      "source": "po_c5BwjNZgBvif35vJuCLoS6e1",
+      "created": 1789387200,
+      "available_on": 1789387200,
+      "description": "STRIPE PAYOUT",
+      "fee_details": []
+    },
+    {
+      "id": "txn_ltRzRcBH6uUrurDlNCVUAPQl",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6400,
+      "fee": 216,
+      "net": 6184,
+      "currency": "usd",
+      "source": "ch_f6BE63cyxDx45K6oAKVhTRRl",
+      "created": 1789396680,
+      "available_on": 1789560000,
+      "description": "Handmade mug x2",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 216,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_k6gt3yOEBXOX7bI4f5THJmnj",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 3200,
+      "fee": 123,
+      "net": 3077,
+      "currency": "usd",
+      "source": "ch_ocTlFJH7BoAYuE8AIamcRgjf",
+      "created": 1789415040,
+      "available_on": 1789560000,
+      "description": "Handmade mug",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 123,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_SflInOBi4FtGzuU8XIW1DhvK",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 8500,
+      "fee": 276,
+      "net": 8224,
+      "currency": "usd",
+      "source": "ch_iBu2tZXrqOe7J3X2MlLk36fc",
+      "created": 1789427280,
+      "available_on": 1789560000,
+      "description": "Serving bowl",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 276,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_aQRKLgYqiueO71wCHd3RmMBR",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 48000,
+      "fee": 1422,
+      "net": 46578,
+      "currency": "usd",
+      "source": "ch_S8dBqHUtPHaIuhVlP91nMRdZ",
+      "created": 1789501620,
+      "available_on": 1789646400,
+      "description": "Wholesale order - invoice #1043",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 1422,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_t05bYjXL68sL391s7vgAD6HA",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 5500,
+      "fee": 190,
+      "net": 5310,
+      "currency": "usd",
+      "source": "ch_OVeqJgFr5MLY5DQ4DL2iwNap",
+      "created": 1789504620,
+      "available_on": 1789646400,
+      "description": "Kids clay camp (1 day)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 190,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_X26QxMTQuBUhzc6iOkylLmBA",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 24000,
+      "fee": 726,
+      "net": 23274,
+      "currency": "usd",
+      "source": "ch_ZnDldtP3tgngPDCRrRP9OfoU",
+      "created": 1789512720,
+      "available_on": 1789646400,
+      "description": "Beginner wheel course (6 weeks)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 726,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_uqPiOM32RhkO6M8Uf2BYqrIY",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_cXBzfoupVPEZgkO7RrlPWbIF",
+      "created": 1789583400,
+      "available_on": 1789732800,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_6ivqKskhul87QZuhCxR8ZbsR",
+      "object": "balance_transaction",
+      "type": "adjustment",
+      "amount": -6500,
+      "fee": 1500,
+      "net": -8000,
+      "currency": "usd",
+      "source": "du_n4iHbsgEn8luD2hvZypGxnoP",
+      "created": 1789660800,
+      "available_on": 1789660800,
+      "description": "Chargeback withholding for ch_Ln1oc7z9CU0dWGspvjOug5mG",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 1500,
+          "description": "Dispute fee"
+        }
+      ]
+    },
+    {
+      "id": "txn_tHHceFc8iLSdxq52EhoWjZHE",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 5000,
+      "fee": 175,
+      "net": 4825,
+      "currency": "usd",
+      "source": "ch_MvF3U98eaFd4YrFwcvlREMYC",
+      "created": 1789666680,
+      "available_on": 1789819200,
+      "description": "Gift card",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 175,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_t3Qz8St9EW81J3VikMMFyVle",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6400,
+      "fee": 216,
+      "net": 6184,
+      "currency": "usd",
+      "source": "ch_SQQ33nOL3LDnPIxDYAT2Ppxh",
+      "created": 1789746780,
+      "available_on": 1789905600,
+      "description": "Handmade mug x2",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 216,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_NK5dNgabYDqXOc10VrSdGv2u",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 24000,
+      "fee": 726,
+      "net": 23274,
+      "currency": "usd",
+      "source": "ch_A8elgWh5yqvI62NMEGlZMn41",
+      "created": 1789746900,
+      "available_on": 1789905600,
+      "description": "Beginner wheel course (6 weeks)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 726,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_HuZEUcpwzh3wiJmOgq9x3Vck",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 11000,
+      "fee": 349,
+      "net": 10651,
+      "currency": "usd",
+      "source": "ch_6ehIqV2ly1bfklMRxAjauuJV",
+      "created": 1789751520,
+      "available_on": 1789905600,
+      "description": "Date night couples class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 349,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_3WBUUK1hLRmLvihOVWzEiNqg",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 11000,
+      "fee": 349,
+      "net": 10651,
+      "currency": "usd",
+      "source": "ch_NDxXZmJHg7ksL9s92pXtDDg6",
+      "created": 1789769700,
+      "available_on": 1789905600,
+      "description": "Date night couples class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 349,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_JwgJAphSED9RtEX9cdZIcnwJ",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 8500,
+      "fee": 276,
+      "net": 8224,
+      "currency": "usd",
+      "source": "ch_JbQSATcIGLNy41VhkqSWN3YP",
+      "created": 1789830720,
+      "available_on": 1789992000,
+      "description": "Serving bowl",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 276,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_oxoZsZPF8TOCgdgXOhCYaRz5",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 24000,
+      "fee": 726,
+      "net": 23274,
+      "currency": "usd",
+      "source": "ch_EB6qXwsngJqRelqTDgj2OGv1",
+      "created": 1789844520,
+      "available_on": 1789992000,
+      "description": "Beginner wheel course (6 weeks)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 726,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_c6UWSOvnL9gfiDUkstKJIVri",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_icNyqamcCrwsDCuoujQRd9b1",
+      "created": 1789849200,
+      "available_on": 1789992000,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_TRxQoDtE32kMHqGukVXPiG5L",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 8500,
+      "fee": 276,
+      "net": 8224,
+      "currency": "usd",
+      "source": "ch_LylyIl6GYTn0YuZyVm1K1R5j",
+      "created": 1789861320,
+      "available_on": 1789992000,
+      "description": "Serving bowl",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 276,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_5uW9UC6C9wOtQmmROwH88VW6",
+      "object": "balance_transaction",
+      "type": "refund",
+      "amount": -3200,
+      "fee": 0,
+      "net": -3200,
+      "currency": "usd",
+      "source": "re_DQRpfDDK7ToBT6Yh4odAg5Nm",
+      "created": 1789916640,
+      "available_on": 1789905600,
+      "description": "REFUND FOR CHARGE (Handmade mug x2)",
+      "fee_details": []
+    },
+    {
+      "id": "txn_J0tJvpNj8w3IuUzNiNIgPlGx",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 11000,
+      "fee": 349,
+      "net": 10651,
+      "currency": "usd",
+      "source": "ch_2MndvPB8aiEv1fzkqqAoZnXZ",
+      "created": 1789920480,
+      "available_on": 1790078400,
+      "description": "Date night couples class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 349,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_atuJXrQqH7NehtQv8HCQJpxq",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_58xE38xyYFoGrpQQqoavsMfg",
+      "created": 1789928280,
+      "available_on": 1790078400,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_PIfbAqMf8bujYJcuhTjpOlra",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_aC7ewTtWyHoUC31dtCNvAFj0",
+      "created": 1789933740,
+      "available_on": 1790078400,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_tPyIEXGmC9mhkzoCOHbdOYYY",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_SzI8N27xATbcCFMLKfbwzLIz",
+      "created": 1789944480,
+      "available_on": 1790078400,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_rJ92NApLuW5h8EVxVhBauQT8",
+      "object": "balance_transaction",
+      "type": "payout",
+      "amount": -202338,
+      "fee": 0,
+      "net": -202338,
+      "currency": "usd",
+      "source": "po_UQz2nsoHBxboZgdHyqSYm79F",
+      "created": 1789992000,
+      "available_on": 1789992000,
+      "description": "STRIPE PAYOUT",
+      "fee_details": []
+    },
+    {
+      "id": "txn_Qy8MzcOyiDw1ubf4QuaoVJ6o",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_VCpG7Pbl2dMoXMo2k4KD4qoO",
+      "created": 1790004180,
+      "available_on": 1790164800,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_nqjpVkh9s7iqjfstylO7GiNT",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_F0473YuFSbHO5Pjk79klQtA9",
+      "created": 1790006700,
+      "available_on": 1790164800,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_wk7smkXBVKADfERYUpVgRLxE",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_c5cSE70EgAzmqNIa4nP2bbte",
+      "created": 1790027580,
+      "available_on": 1790164800,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_Dy3e2jEBOYJhxtivryQOBVr4",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_JZtioN0e588oj6NplRWzY5yt",
+      "created": 1790089980,
+      "available_on": 1790251200,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_qZUTUPges8nXy2mKFpxNoaaZ",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 12000,
+      "fee": 378,
+      "net": 11622,
+      "currency": "usd",
+      "source": "ch_e9x5wiFRloWUU3JhUuNAk2nd",
+      "created": 1790103420,
+      "available_on": 1790251200,
+      "description": "Studio membership (monthly)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 378,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_spnMLWFt6tY3enlBxppdGJzW",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 11000,
+      "fee": 349,
+      "net": 10651,
+      "currency": "usd",
+      "source": "ch_XFdfljkFKdXnpAOjKUvaHuqK",
+      "created": 1790111940,
+      "available_on": 1790251200,
+      "description": "Date night couples class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 349,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_aDbOn8kamc5x9eURALfvZ1mN",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6400,
+      "fee": 216,
+      "net": 6184,
+      "currency": "usd",
+      "source": "ch_VSONAX2rp0m9JSTpq4thVpZ5",
+      "created": 1790184120,
+      "available_on": 1790337600,
+      "description": "Handmade mug x2",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 216,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_4nwqw1lV6609BtL5dLnjvm0h",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 10000,
+      "fee": 320,
+      "net": 9680,
+      "currency": "usd",
+      "source": "ch_RWONpreUZGfI788yQ7EfiRYj",
+      "created": 1790189280,
+      "available_on": 1790337600,
+      "description": "Gift card",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 320,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_7G1fGip5W71QMPZVshzxuFkW",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_KBcGz1Pts6T1iETyXihjhLFv",
+      "created": 1790191140,
+      "available_on": 1790337600,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_IesGdsfaVDFKDKi1eb51OOhu",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_AQt54I5l3H1WoplA07akL8cQ",
+      "created": 1790267520,
+      "available_on": 1790424000,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_n1jL9iMVlIT0BYXn2wwE0Djt",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 12000,
+      "fee": 378,
+      "net": 11622,
+      "currency": "usd",
+      "source": "ch_mw2caz7CvqzHoaESqnfwFerE",
+      "created": 1790289900,
+      "available_on": 1790424000,
+      "description": "Studio membership (monthly)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 378,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_icL8VM3RNrfJ6eW8taEegCuR",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_5FYYsdC3sYtvqFlFlwcom06q",
+      "created": 1790354880,
+      "available_on": 1790510400,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_vGZXQV6AsTqOwExrTx1lQEC5",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 3200,
+      "fee": 123,
+      "net": 3077,
+      "currency": "usd",
+      "source": "ch_svj3WMqz8UdUpU7sMU53H25X",
+      "created": 1790361360,
+      "available_on": 1790510400,
+      "description": "Handmade mug",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 123,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_vonhYu04kiJEPBBv1wwCkQvS",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_q9DGQZ6njTLvPHobsWknCPZ0",
+      "created": 1790372640,
+      "available_on": 1790510400,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_qr7EwG3qENEFvyXgcctYCAPS",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 24000,
+      "fee": 726,
+      "net": 23274,
+      "currency": "usd",
+      "source": "ch_l2puDG9BrDaI7lhItCmEojK5",
+      "created": 1790438520,
+      "available_on": 1790596800,
+      "description": "Beginner wheel course (6 weeks)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 726,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_Shf9RCKfvfhc0gHwTyc8A4mZ",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_b40W60KXS9tBxBwZuNbfvJxT",
+      "created": 1790459700,
+      "available_on": 1790596800,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_up1CQhevBZaQ0vsljGRImoid",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 12000,
+      "fee": 378,
+      "net": 11622,
+      "currency": "usd",
+      "source": "ch_Wvg1x4LzVnN874iJa6BT4Ipd",
+      "created": 1790521620,
+      "available_on": 1790683200,
+      "description": "Studio membership (monthly)",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 378,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_cMdPmdrL9S3GiLBwAMF2ay97",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_jUJ3ojZd0EH3mA9ZKjSOVBpA",
+      "created": 1790539260,
+      "available_on": 1790683200,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_ZToVdKH6DEiyBAQlVwcfOqeW",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_oUiHeZROw21BwQ6haFsh8jyo",
+      "created": 1790541120,
+      "available_on": 1790683200,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_jNxCADB7N2nqkDcN9iAq1muE",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 3200,
+      "fee": 123,
+      "net": 3077,
+      "currency": "usd",
+      "source": "ch_tS9BhY3mzSDuDPAkitkdERn2",
+      "created": 1790546340,
+      "available_on": 1790683200,
+      "description": "Handmade mug",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 123,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_FhNWFCA5Fg1w5oy4sDl3kTRo",
+      "object": "balance_transaction",
+      "type": "payout",
+      "amount": -144051,
+      "fee": 0,
+      "net": -144051,
+      "currency": "usd",
+      "source": "po_wTqdumN22e7NTmCX6sJFf0gg",
+      "created": 1790596800,
+      "available_on": 1790596800,
+      "description": "STRIPE PAYOUT",
+      "fee_details": []
+    },
+    {
+      "id": "txn_yHCWh3MdL7ABFjuUWh2YnOq3",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 5000,
+      "fee": 175,
+      "net": 4825,
+      "currency": "usd",
+      "source": "ch_HHtE2ZLXdOr0KRoI9LT6AArA",
+      "created": 1790604360,
+      "available_on": 1790769600,
+      "description": "Gift card",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 175,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_EuGVpTF8SMivOCBJMXPvTmR1",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 11000,
+      "fee": 349,
+      "net": 10651,
+      "currency": "usd",
+      "source": "ch_lUobEY9ApqkA6LTxHaNdM7iT",
+      "created": 1790607720,
+      "available_on": 1790769600,
+      "description": "Date night couples class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 349,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_ZzNCTk50TYcs7YNv1c78vMaU",
+      "object": "balance_transaction",
+      "type": "refund",
+      "amount": -4500,
+      "fee": 0,
+      "net": -4500,
+      "currency": "usd",
+      "source": "re_zoAMqx84TXccHrWhGwGPW8NN",
+      "created": 1790637840,
+      "available_on": 1790596800,
+      "description": "REFUND FOR CHARGE (Drop-in wheel class)",
+      "fee_details": []
+    },
+    {
+      "id": "txn_1gRv9pKnpbWmY746kSyM5CEo",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 11000,
+      "fee": 349,
+      "net": 10651,
+      "currency": "usd",
+      "source": "ch_7Y6KQEWgGSckjiNqUczSOYqL",
+      "created": 1790693160,
+      "available_on": 1790856000,
+      "description": "Date night couples class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 349,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_F3hdWohrOsYpRAO4RsX0Qfmo",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6400,
+      "fee": 216,
+      "net": 6184,
+      "currency": "usd",
+      "source": "ch_c3ZvxpNpguF2LtIWEuCkW1Qr",
+      "created": 1790695860,
+      "available_on": 1790856000,
+      "description": "Handmade mug x2",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 216,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_OKgXhlweoI7dc8v1pItPaY0k",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 4500,
+      "fee": 160,
+      "net": 4340,
+      "currency": "usd",
+      "source": "ch_tFAdKyVLCf2s828ecFgirKYw",
+      "created": 1790705940,
+      "available_on": 1790856000,
+      "description": "Drop-in wheel class",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 160,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_CAVnwG2Qn2Nc6upWnnvDZqjL",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 8500,
+      "fee": 276,
+      "net": 8224,
+      "currency": "usd",
+      "source": "ch_3cfNswf7AvYorYRauUtYOt9Q",
+      "created": 1790781120,
+      "available_on": 1790942400,
+      "description": "Serving bowl",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 276,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_g13Tvgc3WLFef2Mh4hJNJ6QS",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_hJOTMA2o0vxIYtdl2tXFJRjw",
+      "created": 1790787240,
+      "available_on": 1790942400,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    },
+    {
+      "id": "txn_enSqDWmjJ4FN6i7Mt0kiPdXN",
+      "object": "balance_transaction",
+      "type": "charge",
+      "amount": 6500,
+      "fee": 218,
+      "net": 6282,
+      "currency": "usd",
+      "source": "ch_GGg0qD81cDPZSUhvzyvIdsnh",
+      "created": 1790791980,
+      "available_on": 1790942400,
+      "description": "Glaze & fire workshop",
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 218,
+          "description": "Stripe processing fees"
+        }
+      ]
+    }
+  ],
+  "payouts": [
+    {
+      "id": "po_4aiFO15fV1ClZIbLhUzPaZ99",
+      "object": "payout",
+      "amount": 121831,
+      "currency": "usd",
+      "automatic": true,
+      "created": 1788782400,
+      "arrival_date": 1788955200,
+      "method": "standard",
+      "status": "paid",
+      "description": "STRIPE PAYOUT"
+    },
+    {
+      "id": "po_c5BwjNZgBvif35vJuCLoS6e1",
+      "object": "payout",
+      "amount": 146128,
+      "currency": "usd",
+      "automatic": true,
+      "created": 1789387200,
+      "arrival_date": 1789560000,
+      "method": "standard",
+      "status": "paid",
+      "description": "STRIPE PAYOUT"
+    },
+    {
+      "id": "po_UQz2nsoHBxboZgdHyqSYm79F",
+      "object": "payout",
+      "amount": 202338,
+      "currency": "usd",
+      "automatic": true,
+      "created": 1789992000,
+      "arrival_date": 1790164800,
+      "method": "standard",
+      "status": "paid",
+      "description": "STRIPE PAYOUT"
+    },
+    {
+      "id": "po_wTqdumN22e7NTmCX6sJFf0gg",
+      "object": "payout",
+      "amount": 144051,
+      "currency": "usd",
+      "automatic": true,
+      "created": 1790596800,
+      "arrival_date": 1790769600,
+      "method": "standard",
+      "status": "in_transit",
+      "description": "STRIPE PAYOUT"
+    }
+  ],
+  "payout_balance_transactions": {
+    "po_4aiFO15fV1ClZIbLhUzPaZ99": [
+      "txn_xH1SCwmtT5ID2nmUvQQhmA37",
+      "txn_secGCgXX7MHjtbyk1bc8UGT1",
+      "txn_LG7hwnekzgg9yamqXG4fk4n0",
+      "txn_v5pFcMmkAJBxEdtcKusz9NHZ",
+      "txn_SKpD6LFPhhMtzpBsjNaKfZBe",
+      "txn_HoyfbzIBMkkmUy8ODbeU8JGp",
+      "txn_WazcbRHHdVAx47pmdodw1MCP",
+      "txn_nhLN9Mzt3fevjMggY2IEKhvj",
+      "txn_RwUzNJMt11tTLlzcLGrT1m5T",
+      "txn_oMogUs5ko8qbZEIOf1BWdKYB",
+      "txn_TY0ufmqekSntz0cq72rfcZWu",
+      "txn_LSe7zDNjaWfhl7CMmjXs2lxw",
+      "txn_6IGXHVN2WA5dLD1Dh417qpnm",
+      "txn_Mr8H9v6SD54jC36Smh7Yets8"
+    ],
+    "po_c5BwjNZgBvif35vJuCLoS6e1": [
+      "txn_EuvYpc3iBFfjLYD1WLkSkKFT",
+      "txn_yl7MzIaIe28ctibdb6BdUKE8",
+      "txn_KmIfqC9QQjqYUzYGkbOL8aTS",
+      "txn_vlK3B69D6X4ycFf1ygfGvdck",
+      "txn_oNevwKIzHVunxc45ivjvjwSf",
+      "txn_cSw4ryQrjiBq3NjY02tTByr9",
+      "txn_iRTYrqdCBAXqkmADBKffx71V",
+      "txn_2Cbzp0hA94DyKxeTHEGc6pAX",
+      "txn_tYFD9f75Yd7nKKV0fOn4sDoA",
+      "txn_tyEVqFdeBswr7XhyTP50M1e1",
+      "txn_d9ehR4u3rqxw96vPMNUdks1c",
+      "txn_NVxMdsu7EFDEzsj1cASt9esL",
+      "txn_Ezax7sG4TPQRRzdHEve3qsGe",
+      "txn_c4ANAo8lK1wryVFT5vBhE7ry",
+      "txn_HLhnxgma6xmjRDcJBKf9IB5U",
+      "txn_T9lB72rV9rthumNCzDXRse8m",
+      "txn_9FTwGvBYiuHuVeG8RqNynEwz"
+    ],
+    "po_UQz2nsoHBxboZgdHyqSYm79F": [
+      "txn_3mFNR7XrUsWuHy0D8w6bSsiw",
+      "txn_eZuwuVRmqH6cUjSpXGGnFqa9",
+      "txn_bseh4CbqRiJ0oH42qoQ2Rm3X",
+      "txn_ltRzRcBH6uUrurDlNCVUAPQl",
+      "txn_k6gt3yOEBXOX7bI4f5THJmnj",
+      "txn_SflInOBi4FtGzuU8XIW1DhvK",
+      "txn_aQRKLgYqiueO71wCHd3RmMBR",
+      "txn_t05bYjXL68sL391s7vgAD6HA",
+      "txn_X26QxMTQuBUhzc6iOkylLmBA",
+      "txn_uqPiOM32RhkO6M8Uf2BYqrIY",
+      "txn_6ivqKskhul87QZuhCxR8ZbsR",
+      "txn_tHHceFc8iLSdxq52EhoWjZHE",
+      "txn_t3Qz8St9EW81J3VikMMFyVle",
+      "txn_NK5dNgabYDqXOc10VrSdGv2u",
+      "txn_HuZEUcpwzh3wiJmOgq9x3Vck",
+      "txn_3WBUUK1hLRmLvihOVWzEiNqg",
+      "txn_JwgJAphSED9RtEX9cdZIcnwJ",
+      "txn_oxoZsZPF8TOCgdgXOhCYaRz5",
+      "txn_c6UWSOvnL9gfiDUkstKJIVri",
+      "txn_TRxQoDtE32kMHqGukVXPiG5L",
+      "txn_5uW9UC6C9wOtQmmROwH88VW6"
+    ],
+    "po_wTqdumN22e7NTmCX6sJFf0gg": [
+      "txn_J0tJvpNj8w3IuUzNiNIgPlGx",
+      "txn_atuJXrQqH7NehtQv8HCQJpxq",
+      "txn_PIfbAqMf8bujYJcuhTjpOlra",
+      "txn_tPyIEXGmC9mhkzoCOHbdOYYY",
+      "txn_Qy8MzcOyiDw1ubf4QuaoVJ6o",
+      "txn_nqjpVkh9s7iqjfstylO7GiNT",
+      "txn_wk7smkXBVKADfERYUpVgRLxE",
+      "txn_Dy3e2jEBOYJhxtivryQOBVr4",
+      "txn_qZUTUPges8nXy2mKFpxNoaaZ",
+      "txn_spnMLWFt6tY3enlBxppdGJzW",
+      "txn_aDbOn8kamc5x9eURALfvZ1mN",
+      "txn_4nwqw1lV6609BtL5dLnjvm0h",
+      "txn_7G1fGip5W71QMPZVshzxuFkW",
+      "txn_IesGdsfaVDFKDKi1eb51OOhu",
+      "txn_n1jL9iMVlIT0BYXn2wwE0Djt",
+      "txn_icL8VM3RNrfJ6eW8taEegCuR",
+      "txn_vGZXQV6AsTqOwExrTx1lQEC5",
+      "txn_vonhYu04kiJEPBBv1wwCkQvS",
+      "txn_qr7EwG3qENEFvyXgcctYCAPS",
+      "txn_Shf9RCKfvfhc0gHwTyc8A4mZ",
+      "txn_ZzNCTk50TYcs7YNv1c78vMaU"
+    ]
+  }
+}

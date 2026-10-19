@@ -1,0 +1,229 @@
+{
+  "Account": [
+    {
+      "Id": "1",
+      "Name": "Business Checking",
+      "AccountType": "Bank",
+      "AccountSubType": "Checking"
+    },
+    {
+      "Id": "2",
+      "Name": "Stripe Clearing",
+      "AccountType": "Bank",
+      "AccountSubType": "CashOnHand",
+      "Description": "Money held by Stripe between a sale and its payout"
+    },
+    {
+      "Id": "3",
+      "Name": "Sales",
+      "AccountType": "Income",
+      "AccountSubType": "SalesOfProductIncome"
+    },
+    {
+      "Id": "4",
+      "Name": "Stripe Fees",
+      "AccountType": "Expense",
+      "AccountSubType": "BankCharges"
+    },
+    {
+      "Id": "5",
+      "Name": "Accounts Receivable (A/R)",
+      "AccountType": "Accounts Receivable"
+    },
+    {
+      "Id": "6",
+      "Name": "Undeposited Funds",
+      "AccountType": "Other Current Asset"
+    }
+  ],
+  "Item": [
+    {
+      "Id": "10",
+      "Name": "Online Sales",
+      "Type": "Service",
+      "IncomeAccountRef": {
+        "value": "3",
+        "name": "Sales"
+      }
+    },
+    {
+      "Id": "11",
+      "Name": "Wholesale Pottery",
+      "Type": "NonInventory",
+      "IncomeAccountRef": {
+        "value": "3",
+        "name": "Sales"
+      }
+    }
+  ],
+  "Vendor": [
+    {
+      "Id": "20",
+      "DisplayName": "Stripe"
+    }
+  ],
+  "Customer": [
+    {
+      "Id": "30",
+      "DisplayName": "Ferncliff Coffee Co.",
+      "CompanyName": "Ferncliff Coffee Co.",
+      "PrimaryEmailAddr": {
+        "Address": "ap@ferncliff.example.com"
+      }
+    },
+    {
+      "Id": "31",
+      "DisplayName": "Dana Whitfield",
+      "GivenName": "Dana",
+      "FamilyName": "Whitfield",
+      "PrimaryEmailAddr": {
+        "Address": "dana.whitfield@example.com"
+      }
+    },
+    {
+      "Id": "32",
+      "DisplayName": "Sam Patel",
+      "GivenName": "Sam",
+      "FamilyName": "Patel",
+      "PrimaryEmailAddr": {
+        "Address": "sam.patel@example.org"
+      }
+    },
+    {
+      "Id": "33",
+      "DisplayName": "Bluebird Bakery",
+      "CompanyName": "Bluebird Bakery",
+      "PrimaryEmailAddr": {
+        "Address": "orders@bluebird.example.com"
+      }
+    }
+  ],
+  "Invoice": [
+    {
+      "Id": "40",
+      "DocNumber": "1041",
+      "TxnDate": "2026-08-10",
+      "CustomerRef": {
+        "value": "33",
+        "name": "Bluebird Bakery"
+      },
+      "Line": [
+        {
+          "Amount": 360.0,
+          "Description": "Bread bowls x24",
+          "DetailType": "SalesItemLineDetail",
+          "SalesItemLineDetail": {
+            "ItemRef": {
+              "value": "11",
+              "name": "Wholesale Pottery"
+            },
+            "Qty": 1,
+            "UnitPrice": 360.0
+          }
+        }
+      ],
+      "Balance": 0.0
+    },
+    {
+      "Id": "41",
+      "DocNumber": "1042",
+      "TxnDate": "2026-08-24",
+      "CustomerRef": {
+        "value": "33",
+        "name": "Bluebird Bakery"
+      },
+      "Line": [
+        {
+          "Amount": 275.0,
+          "Description": "Pastry plates x20",
+          "DetailType": "SalesItemLineDetail",
+          "SalesItemLineDetail": {
+            "ItemRef": {
+              "value": "11",
+              "name": "Wholesale Pottery"
+            },
+            "Qty": 1,
+            "UnitPrice": 275.0
+          }
+        }
+      ]
+    },
+    {
+      "Id": "42",
+      "DocNumber": "1043",
+      "TxnDate": "2026-08-28",
+      "CustomerRef": {
+        "value": "30",
+        "name": "Ferncliff Coffee Co."
+      },
+      "Line": [
+        {
+          "Amount": 480.0,
+          "Description": "Espresso cups x48",
+          "DetailType": "SalesItemLineDetail",
+          "SalesItemLineDetail": {
+            "ItemRef": {
+              "value": "11",
+              "name": "Wholesale Pottery"
+            },
+            "Qty": 1,
+            "UnitPrice": 480.0
+          }
+        }
+      ]
+    }
+  ],
+  "SalesReceipt": [
+    {
+      "Id": "50",
+      "TxnDate": "2026-08-29",
+      "CustomerRef": {
+        "value": "33",
+        "name": "Bluebird Bakery"
+      },
+      "DepositToAccountRef": {
+        "value": "6",
+        "name": "Undeposited Funds"
+      },
+      "PrivateNote": "Farmers market, cash (manual entry)",
+      "Line": [
+        {
+          "Amount": 140.0,
+          "Description": "Market day sales",
+          "DetailType": "SalesItemLineDetail",
+          "SalesItemLineDetail": {
+            "ItemRef": {
+              "value": "10",
+              "name": "Online Sales"
+            },
+            "Qty": 1,
+            "UnitPrice": 140.0
+          }
+        }
+      ]
+    }
+  ],
+  "Deposit": [
+    {
+      "Id": "60",
+      "TxnDate": "2026-08-31",
+      "DepositToAccountRef": {
+        "value": "1",
+        "name": "Business Checking"
+      },
+      "PrivateNote": "Check #2207 from Bluebird Bakery (manual entry)",
+      "Line": [
+        {
+          "Amount": 360.0,
+          "DetailType": "DepositLineDetail",
+          "DepositLineDetail": {
+            "AccountRef": {
+              "value": "5",
+              "name": "Accounts Receivable (A/R)"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
